@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+.claude/
+_research_summary.md
